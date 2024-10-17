@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aitlix
 - 👀 I’m interested in learning coding languages and know about github as much as I can while being new to this.
 - 🌱 I’m currently learning Java.
-- 📫 You can reach be my any means :)
+- 📫 You can reach me by any means :)
 - ⚡ Fun fact: I dont know the C of Coding.
 
 <!---
